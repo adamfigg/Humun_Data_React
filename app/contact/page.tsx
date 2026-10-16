@@ -26,16 +26,12 @@ export default function Contact() {
               Other ways to reach us
             </p>
             <div className="roost">
-              <span className="k">General</span>
-              <a href="mailto:hello@humun.io">hello@humun.io</a>
+              <span className="k">Contact</span>
+              <a href="mailto:contact@humun.com">contact@humun.com</a>
             </div>
             <div className="roost">
               <span className="k">Support</span>
-              <a href="mailto:ravens@humun.io">ravens@humun.io</a>
-            </div>
-            <div className="roost">
-              <span className="k">Partnerships</span>
-              <a href="mailto:allies@humun.io">allies@humun.io</a>
+              <a href="mailto:support@humun.com">support@humun.com</a>
             </div>
             <div className="roost" style={{ borderBottom: "1px solid var(--hairline)" }}>
               <span className="k">Elsewhere</span>
